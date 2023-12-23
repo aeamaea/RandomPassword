@@ -21,6 +21,7 @@ h1,h2,h3 {
 
 h1 {
     margin: 50px 5px 0px 20px;
+    margin-left: 36px;
     color: var(--white, #FFF);
     font-family: Karla;
     font-size: 40px;
@@ -31,7 +32,9 @@ h1 {
 }
 
 h2 {
+    
     margin: 0px 5px 5px 20px;
+    margin-left: 36px;
     color: #4ADF86;
     font-family: Karla;
     font-size: 30px;
@@ -43,6 +46,7 @@ h2 {
 
 h3 {
     margin: 0 5px 5px 20px;
+    margin-left: 36px;
     color: var(--Medium-grey, #D5D4D8);
 
     /* text-xl/leading-7/font-normal */
@@ -56,6 +60,7 @@ h3 {
 #pass-gen-btn {
     width: 150px;
     margin: 40px 5px 5px 20px;
+    margin-left: 36px;
     border: none;
     border-radius: 5px;
     padding: 8px 30px 8px 30px;
